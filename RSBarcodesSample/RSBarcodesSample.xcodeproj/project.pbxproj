@@ -503,7 +503,6 @@
 					"$(inherited)",
 				);
 				INFOPLIST_FILE = RSBarcodesSampleTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				METAL_ENABLE_DEBUG_INFO = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.pdq.${PRODUCT_NAME:rfc1034identifier}";
@@ -519,7 +518,6 @@
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/RSBarcodesSample.app/RSBarcodesSample";
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = RSBarcodesSampleTests/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				METAL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.pdq.${PRODUCT_NAME:rfc1034identifier}";
